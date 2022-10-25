@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Acla Putra",
+      "email": "muhamadacla22@gmail.com",
+      "phone": "081295072198",
+      "id": 1
+    },
+    {
+      "name": "Nurdin Hamzah",
+      "email": "nh@gmail.com",
+      "phone": "081295072198",
+      "id": 2
+    },
+    {
+      "name": "paizu maizuri",
+      "email": "paizuri@gmail.com",
+      "phone": "71293919232",
+      "id": 3
+    }
+  ]
+}

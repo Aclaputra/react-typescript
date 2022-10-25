@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92382-3892",
+        "geo": {
+          "lat": "-37.8173",
+          "lng": "81.1248"
+        }
+      },
+      "phone": "1-770-2192-8912 x4758",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server natural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Ervin",
+      "email": "Howell@gmail.com",
+      "address": {
+        "street": "Metro Upper",
+        "suite": "Apt. 297",
+        "city": "Gwenborough",
+        "zipcode": "98012-3982",
+        "geo": {
+          "lat": "-37.8823",
+          "lng": "81.0018"
+        }
+      },
+      "phone": "1-110-0092-8992 x4758",
+      "website": "reactjs.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server natural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Leanne Graham",
+      "username": "Graham",
+      "email": "Sincere@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92382-3892",
+        "geo": {
+          "lat": "-37.8173",
+          "lng": "81.1248"
+        }
+      },
+      "phone": "1-770-2192-8912 x4758",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server natural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 4,
+      "name": "George Washington",
+      "username": "George",
+      "email": "Washington@gmail.com",
+      "address": {
+        "street": "Georgie street",
+        "suite": "Apt. 001",
+        "city": "New York",
+        "zipcode": "92803-3892",
+        "geo": {
+          "lat": "-37.9973",
+          "lng": "21.0048"
+        }
+      },
+      "phone": "1-937-2192-8912 x4758",
+      "website": "washington.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server natural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rylie Huningbird",
+      "username": "Rylie",
+      "email": "Rylie@gmail.com",
+      "address": {
+        "street": "Humingbird Rylie",
+        "suite": "Apt. 297",
+        "city": "San Fransisco",
+        "zipcode": "90082-3992",
+        "geo": {
+          "lat": "-37.2273",
+          "lng": "81.3348"
+        }
+      },
+      "phone": "1-770-2332-8944 x4448",
+      "website": "codingtopia.com",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server natural-net",
+        "bs": "harness real-time e-markets"
+      }
+    }
+  ]
+}
